@@ -1,5 +1,7 @@
-json-format
+json-format-mjs
 ==========
+
+## THIS IS A MJS FORK OF https://github.com/luizstacio/json-format
 
 [![Build Status](https://travis-ci.org/luizstacio/json-format.svg?branch=master)](https://travis-ci.org/luizstacio/json-format.svg?branch=master)
 

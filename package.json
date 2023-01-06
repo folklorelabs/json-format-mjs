@@ -1,14 +1,12 @@
 {
-  "name": "json-format",
+  "name": "json-format-mjs",
   "version": "1.0.1",
   "description": "JSON format for good presentation",
-  "main": "index.js",
-  "scripts": {
-    "test": "node_modules/.bin/mocha"
-  },
+  "main": "index.mjs",
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:luizstacio/json-format.git"
+    "url": "git@github.com:pBun/json-format-mjs.git"
   },
   "keywords": [
     "json",
@@ -22,13 +20,13 @@
     "ident",
     "format"
   ],
-  "author": "luizstacio",
+  "author": "pBun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luizstacio/json-format/issues"
+    "url": "https://github.com/pBun/json-format-mjs/issues"
   },
-  "homepage": "https://github.com/luizstacio/json-format",
+  "homepage": "https://github.com/pBun/json-format-mjs",
   "devDependencies": {
-    "mocha": "^3.2.0"
+    "eslint": "^8.10.0"
   }
 }
