@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:pBun/json-format-mjs.git"
+    "url": "git@github.com:folklorelabs/json-format-mjs.git"
   },
   "keywords": [
     "json",
@@ -20,12 +20,12 @@
     "ident",
     "format"
   ],
-  "author": "pBun",
+  "author": "folklorelabs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pBun/json-format-mjs/issues"
+    "url": "https://github.com/folklorelabs/json-format-mjs/issues"
   },
-  "homepage": "https://github.com/pBun/json-format-mjs",
+  "homepage": "https://github.com/folklorelabs/json-format-mjs",
   "devDependencies": {
     "eslint": "^8.10.0"
   }
